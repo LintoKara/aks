@@ -14,8 +14,10 @@ Key Topics
 Project Plan :
 Deploying Microservice Demo on Azure using AKS
 1. Introduction
-   This project Deploying Microservice Demo on Azure using AKS. This deployment will follow the key DevOps principles to ensure a robust, Scalable and secure setup
+   This project include deploying a Microservice Demo on Azure using AKS. This deployment will follow the key DevOps principles to ensure a robust, Scalable and secure setup
 2.  Architecture Overview
     The application consists of several microservices communicating with each
   2.1 Architecture Diagram
   ![Atchitecture_diagram](https://github.com/user-attachments/assets/71fec3f2-9278-4e19-bd52-f43e69aeccc7)
+  2.2
+  ![image](https://github.com/user-attachments/assets/03e757e0-44c9-459f-b3f3-d79bdaa4838c)
