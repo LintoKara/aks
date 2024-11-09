@@ -24,7 +24,7 @@ Deploying Microservice Demo on Azure using AKS
   ![image](https://github.com/user-attachments/assets/03e757e0-44c9-459f-b3f3-d79bdaa4838c)
   2.3 Application Screenshot
   ![image](https://github.com/user-attachments/assets/cb28404c-da35-4afc-bb07-f9b7ac218ea3)
-3. DevOps principal Implementations
+3. DevOps principal Implementation
    3.1 Infrastructure As a Code (IaC)
          Tool: Terraform
          Objective: Define and deploy infrastructure using code to ensure reproducibility and version control
